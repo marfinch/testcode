@@ -2,8 +2,8 @@
 
 // visit io.adafruit.com if you need to create an account,
 // or if you need your Adafruit IO key.
-#define IO_USERNAME  "finchma15"
-#define IO_KEY       "aio_PCsq79didhjAxMW8Uer3UfGgFzwm"
+#define IO_USERNAME  ""
+#define IO_KEY       ""
 
 
 #include <Adafruit_NeoPixel.h>
@@ -26,8 +26,8 @@ Adafruit_NeoPixel ring = Adafruit_NeoPixel(NUM_LEDS, NeoPIN, NEO_RGB + NEO_KHZ80
 //   - Adafruit AirLift Shield -> https://www.adafruit.com/product/4285
 //   - Adafruit AirLift FeatherWing -> https://www.adafruit.com/product/4264
 
-#define WIFI_SSID "Fam Jam"
-#define WIFI_PASS "yourmomsahoe123"
+#define WIFI_SSID ""
+#define WIFI_PASS ""
 
 // uncomment the following line if you are using airlift
 // #define USE_AIRLIFT
