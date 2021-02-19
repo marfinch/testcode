@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T04:28:55.128Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" version="14.4.2" etag="7it0lSOMs3AsM8h4aZ-e" type="github"><diagram id="dk-bPTm1i8ZCfOnBSjS7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-19T04:36:10.813Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="7072xxTtG2dqXvle30S3" version="14.4.2" type="github">
+  <diagram id="dk-bPTm1i8ZCfOnBSjS7" name="Page-1">
+    <mxGraphModel dx="934" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KIs6ITmIUEooXbLYzClT-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/6-electronic-led-icon-2-128.png" vertex="1" parent="1">
+          <mxGeometry x="290" y="390" width="108" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="KIs6ITmIUEooXbLYzClT-3" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="110" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KIs6ITmIUEooXbLYzClT-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="70" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KIs6ITmIUEooXbLYzClT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KIs6ITmIUEooXbLYzClT-5" target="KIs6ITmIUEooXbLYzClT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIs6ITmIUEooXbLYzClT-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/electronics-glyph-24/24/integrated_circuit_computer_chip_electronic_circuit_ic_silicon_chip-128.png" vertex="1" parent="1">
+          <mxGeometry x="380" y="380" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="KIs6ITmIUEooXbLYzClT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.276;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KIs6ITmIUEooXbLYzClT-7" target="KIs6ITmIUEooXbLYzClT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIs6ITmIUEooXbLYzClT-7" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KIs6ITmIUEooXbLYzClT-9" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.wi_fi;" vertex="1" parent="1">
+          <mxGeometry x="520" y="270" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KIs6ITmIUEooXbLYzClT-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="KIs6ITmIUEooXbLYzClT-13" value="Adafruit.IO" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="190" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KIs6ITmIUEooXbLYzClT-14" value="Wifi" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="555" y="320" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KIs6ITmIUEooXbLYzClT-15" value="Feather" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="510" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KIs6ITmIUEooXbLYzClT-16" value="LED" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="508" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KIs6ITmIUEooXbLYzClT-17" value="Computer" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="320" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KIs6ITmIUEooXbLYzClT-18" value="User" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="110" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KIs6ITmIUEooXbLYzClT-19" value="Mobile Device" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
